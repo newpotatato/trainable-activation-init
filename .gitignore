@@ -1,0 +1,13 @@
+# downloaded / cached datasets (rebuilt by exp/data.py)
+exp/data/
+# python caches
+__pycache__/
+*.pyc
+# run logs and temporary backups
+exp/results_log*.txt
+exp/results/transfer_inits_before_*.json
+# internal working notes and the old version of the article
+PLAN.md
+ОПИСАНИЕ_РАБОТЫ.md
+chernikov_kirill_mikhajlovich_optimizatsiya_nejrosetevikh_algoritmov*.docx
+**/.documentor/
